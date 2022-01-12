@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Chwnsn !
 - 👀 I’m interested in trying out different things
 - 🌱 I’m currently learning web dev
-- 💞️ Collaboration?
+- 💞️ Collaboration? Hmu.
 - 📫 How to reach me: please use my email address
 
 <!---
